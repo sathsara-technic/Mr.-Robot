@@ -5,7 +5,7 @@ global.ytname = "@fenix_programmer"
 global.socialm = "GitHub: BotDevilLozan"
 global.location = "srilanka, colombo, whaththla"
 global.botname = 'NIMESHA-MD'
-global.ownernumber = '94773010580'
+global.ownernumber = '94702883324'
 global.ownername = 'sathsara technic'
 global.websitex = "https://youtube.com/@sathsara-technic?si=NPQ97FPducVv32ha"
 global.wagc = "https://whatsapp.com/channel/0029VaZ2E9D9xVJgcZO5IA2w"
