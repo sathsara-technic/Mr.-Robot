@@ -8,12 +8,12 @@ global.botname = 'Godfather'
 global.ownernumber = '94773010580'
 global.ownername = 'Fenix id'
 global.websitex = "https://youtube.com/@sathsara-technic?si=NPQ97FPducVv32ha"
-global.wagc = "https://whatsapp.com/channel/0029VaV2xYy72WTw8ERfJE2w"
+global.wagc = "https://whatsapp.com/channel/0029VaZ2E9D9xVJgcZO5IA2w"
 global.themeemoji = '🪀'
 global.wm = "Godfather By Fenix Id."
 global.botscript = 'https://github.com/Fenixid-server/Mr.-Robot' 
 global.packname = "Itz"
-global.author = "Godfather"
+global.author = "Sathsara"
 global.creator = "94773010580@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["94773010580"]
