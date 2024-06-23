@@ -11,7 +11,7 @@ global.websitex = "https://youtube.com/@sathsara-technic?si=NPQ97FPducVv32ha"
 global.wagc = "https://whatsapp.com/channel/0029VaZ2E9D9xVJgcZO5IA2w"
 global.themeemoji = '🪀'
 global.wm = "Godfather By Fenix Id."
-global.botscript = 'https://github.com/Fenixid-server/Mr.-Robot' 
+global.botscript = 'https://github.com/sathsara-technic/nimesha' 
 global.packname = "Itz"
 global.author = "Sathsara"
 global.creator = "94773010580@s.whatsapp.net"
