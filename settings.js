@@ -6,11 +6,11 @@ global.socialm = "GitHub: BotDevilLozan"
 global.location = "srilanka, colombo, whaththla"
 global.botname = 'NIMESHA-MD'
 global.ownernumber = '94773010580'
-global.ownername = 'Fenix id'
+global.ownername = 'sathsara technic'
 global.websitex = "https://youtube.com/@sathsara-technic?si=NPQ97FPducVv32ha"
 global.wagc = "https://whatsapp.com/channel/0029VaZ2E9D9xVJgcZO5IA2w"
 global.themeemoji = '🪀'
-global.wm = "Godfather By Fenix Id."
+global.wm = "Nimesha By Fenix Id."
 global.botscript = 'https://github.com/sathsara-technic/nimesha' 
 global.packname = "Itz"
 global.author = "Sathsara"
