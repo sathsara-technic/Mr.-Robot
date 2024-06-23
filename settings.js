@@ -4,7 +4,7 @@ const chalk = require('chalk')
 global.ytname = "@fenix_programmer"
 global.socialm = "GitHub: BotDevilLozan"
 global.location = "srilanka, colombo, whaththla"
-global.botname = 'Godfather'
+global.botname = 'NIMESHA-MD'
 global.ownernumber = '94773010580'
 global.ownername = 'Fenix id'
 global.websitex = "https://youtube.com/@sathsara-technic?si=NPQ97FPducVv32ha"
